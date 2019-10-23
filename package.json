@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/cloud-annotations/object-tracking-js/issues"
   },
-  "homepage" : "http://cyrusclarke.github.io/bio-26-tracking",
+  "homepage" : "https://cyrusclarke.github.io/bio-26-tracking/.",
   "author": "Nick Bourdakos",
   "license": "MIT",
   "dependencies": {
