@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-annotations/object-tracking",
+  "name": "test-project",
   "version": "0.0.5",
   "description": "Simple object tracking in js",
   "jsdelivr": "dist/object-tracking.min.js",
@@ -16,11 +16,12 @@
   "bugs": {
     "url": "https://github.com/cloud-annotations/object-tracking-js/issues"
   },
-  "homepage": "https://github.com/cloud-annotations/object-tracking-js",
+  "homepage" : "http://cyrusclarke.github.io/bio-26-tracking",
   "author": "Nick Bourdakos",
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.6.0",
+    "@cloud-annotations/object-tracking": "0.0.5",
     "@tensorflow/tfjs": "1.0.0"
   },
   "devDependencies": {
